@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
-'''Module for basic annotations'''
+'''Task 1's module.
+'''
 
 
 def concat(str1: str, str2: str) -> str:
-    '''add two strings together'''
+    '''Concatenates two strings.
+    '''
     return str1 + str2
